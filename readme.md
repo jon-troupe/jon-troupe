@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **j.troupe01@gmail.com**
 
-- ⚡ Fun fact **My shoulders are double jointed!**
+- ⚡ Fun fact **I am double jointed in my shoulders!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
