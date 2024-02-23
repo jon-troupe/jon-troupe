@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jon</h1>
-<h3 align="center">A backend developer living in Ontario</h3>
+<h3 align="center">A Full Stack Developer living in Ontario</h3>
 
 - 🌱 I’m currently learning **react**
 
